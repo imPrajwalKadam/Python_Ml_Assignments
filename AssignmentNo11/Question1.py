@@ -11,14 +11,10 @@ def chkPrime(no):
                     no = -no
           i = 2
           tempNo = no//2
-          print(tempNo)
           while i <= tempNo:
-                    # if (no % i) == 0:
-                    #           i+=1
-                    #           break
+                    if (no % i) == 0:
+                              break
                     i=i+1
-                    print(i)
-          print("iCnt : ",i,"iNo:",no)
           if i == (no//2)+1:
                     return True
           else:
