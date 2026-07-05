@@ -1,5 +1,6 @@
 """
-Write a lambda function using filter() which accept list of numbers and return a list of numbers and return a list of even numbers 
+Write a lambda function using filter() which accept list of numbers and return a list of numbers and
+ return a list of even numbers 
 """
 
 
