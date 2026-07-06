@@ -1,5 +1,5 @@
 """
-write a program which accept number from user and display its factorial
+write a program which accept number from user and return its factorial
 Input : 5
 Outpur : 120
 """
