@@ -10,7 +10,7 @@ output of reduce : 62
 from functools import reduce 
 
 
-def filterPrimeData(no):
+def filterPrimeData(no):    
     iCnt = 2
     while iCnt <= no // 2:
         if no % iCnt == 0:
