@@ -1,0 +1,55 @@
+--------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 10
+Sat Jul 25 00:16:02 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 10
+Sat Jul 25 00:16:41 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 15
+Sat Jul 25 00:17:11 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 15
+Sat Jul 25 00:17:41 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 15
+Sat Jul 25 00:18:11 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 15
+Sat Jul 25 00:18:41 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 15
+Sat Jul 25 00:22:35 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 15
+Sat Jul 25 00:22:46 2026 
+
+----------------------------------------------------------------------------------------------------
+
+File Path : /home/prajwal-pradeep-kadam/Desktop/Python/Assignments/Assignment_32/demo.txt
+File size in bytes : 15
+Sat Jul 25 00:22:49 2026 
+
+--------------------------------------------------

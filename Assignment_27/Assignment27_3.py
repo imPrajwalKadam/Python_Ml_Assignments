@@ -58,7 +58,7 @@ class Value:
 
         return iSum
 
-
+    
 try:
     chkPrimeObj = Value()
     bRet = chkPrimeObj.ChkPrime()
@@ -68,23 +68,23 @@ try:
     else:
         print("Not Prime")
 
-    chkPerfectObj = Value()
-    Ret = chkPerfectObj.ChkPerfect()
+    # chkPerfectObj = Value()
+    # Ret = chkPerfectObj.ChkPerfect()
 
-    if Ret == True:
-        print("Perfect number")
-    else:
-        print("Not Perfect")
-
-
-    factorObj = Value()
-    factorObj.Factors()
+    # if Ret == True:
+    #     print("Perfect number")
+    # else:
+    #     print("Not Perfect")
 
 
-    sumFactObj = Value()
+    # factorObj = Value()
+    # factorObj.Factors()
 
-    sumFact = sumFactObj.Sumfactors()
-    print(f"Summation of factors is: {sumFact}")
+
+    # sumFactObj = Value()
+
+    # sumFact = sumFactObj.Sumfactors()
+    # print(f"Summation of factors is: {sumFact}")
 
 except ValueError as vObj:
     print("Exception occured :",vObj )
