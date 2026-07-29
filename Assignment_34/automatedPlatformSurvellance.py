@@ -41,14 +41,14 @@ def platformSurrvillence(folderName):
     fobj.write(border+"\n")
     fobj.write("-----Marvellous Patform Surrvillance System -----\n")
 
-    fobj.write("Lof file gets created at : " + timeStamp + "\n")
+    fobj.write("Log file gets created at : " + timeStamp + "\n")
 
     fobj.write(border+"\n\n")
-    fobj.write("-------------------System Report ---------------------\n")
+    fobj.write("-------------------System Report ------------------\n")
 
     #CPU Information
     fobj.write("Number of active cpu cores : %s %%\n" %psutil.cpu_count())
-    fobj.write("CPU Usage: %s \n" %psutil.cpu_percent())
+    fobj.write("CPU Usage: %s %%\n" %psutil.cpu_percent())
     fobj.write(border+"\n")
 
 
@@ -75,29 +75,53 @@ def platformSurrvillence(folderName):
     netObj = psutil.net_io_counters()
 
     fobj.write("Network Usage report \n")
-    fobj.write("Send : %.2f MB\n"%(netObj.bytes_sent / 1024 * 1024))
+    fobj.write("Sent : %.2f MB\n"%(netObj.bytes_sent / 1024 * 1024))
     fobj.write("Recive : %.2f MB\n"%(netObj.bytes_recv / 1024 * 1024))
 
-    fobj.write("\n"+border+"\n")
+    fobj.write("\n"+border+"\n\n")
 
-
+    fobj.write("Process Report: \n")
     #Process Log
-    data = processScan()
-    for info in data:
-        fobj.write(f"{info} \n")
-        fobj.write("pId : %s\n"%info.get("pid"))
-        fobj.write("Name : %s\n"%info.get("name"))
-        fobj.write("username : %s\n"%info.get("username"))
-        fobj.write("user name : %s\n"%info.get("username"))
-        fobj.write("Status : %s\n"%info.get("status"))
-        fobj.write("CPU Usage : %.2f \n"%info.get("cpu_percent"))
-        fobj.write("RAM Usage : %.2f \n"%info.get("memory_percent"))
-        fobj.write(border+"\n")
+    # data = processScan()
+
+    # for info in data:
+    #     fobj.write(f"{info} \n")
+    #     fobj.write("pId : %s\n"%info.get("pid"))
+    #     fobj.write("Name : %s\n"%info.get("name"))
+    #     fobj.write("username : %s\n"%info.get("username"))
+    #     fobj.write("user name : %s\n"%info.get("username"))
+    #     fobj.write("Status : %s\n"%info.get("status"))
+    #     fobj.write("CPU Usage : %.2f \n"%info.get("cpu_percent"))
+    #     fobj.write("RAM Usage : %.2f \n"%info.get("memory_percent"))
+    #     info["cpu_percent"] = 
+    #     fobj.write("CPU % : ")
+
+    for proc in psutil.process_iter():
+        try:
+            info = proc.as_dict(attrs=["pid","name","username","status","create_time"])
+            print(info)
+            fobj.write("pId : %s\n"%info.get("pid"))
+            fobj.write("Name : %s\n"%info.get("name"))
+            fobj.write("username : %s\n"%info.get("username"))
+            fobj.write("Status : %s\n"%info.get("status"))
+            fobj.write(f"Process Start time : {time.strftime("%Y-%m-%d %H:%M:%S",time.localtime(info["create_time"]))} \n")
+
+            fobj.write(f"CPU Percent per process : {proc.cpu_percent()}\n")
+            fobj.write(f"Memory Percent per process : {proc.memory_percent()}\n")
+            # info["cpu_percent"] = 
+            # fobj.write("CPU % : ")
+            fobj.write(border+"\n")
+
+
+        except :
+            pass
+
+    fobj.write(border+"\n")
 
 
     fobj.write(border+"\n")
-    fobj.write("---------------- End Of Log File --------------------\n")
-    fobj.write(border+"\n")
+    fobj.write("---------------- End Of Log File -----------------\n")
+    fobj.write(border+border+"\n")
 
     fobj.close()
 
@@ -112,7 +136,7 @@ def main():
             print("this automation script is used to performed ")
 
             print("1 : It Fetch the information of running processes")
-            print("2 : It fetch information about promery storage as RAM")
+            print("2 : It fetch information about primary storage as RAM")
             print("3 : It Fetch information about the secondery strage as HDD")
             print("4 : It Fetch information about the microprocessor")
             print("4 : It gets auto schedule periodically ")
@@ -135,10 +159,10 @@ def main():
         # print("CPU Usage : ",psutil.cpu_percent())
         print("Scheduler started successfully")
         print("Press ctrl+c to abort the automation script")
-        schedule.every(int(sys.argv[1])).seconds.do(platformSurrvillence,sys.argv[2])
+        schedule.every(int(sys.argv[1])).minutes.do(platformSurrvillence,sys.argv[2])
         while True:
             schedule.run_pending()
-            time.sleep(1)
+            time.sleep(2)
     else:
         print("Invalid number of aruments")
         print("Unable to proceed as  argument not matching ")
