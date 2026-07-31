@@ -20,3 +20,17 @@ At a fixed time interval(Example :every 5 minute), it automatically call
 5 repeat this forever until u dont stop it ctrl+c
 
 
+    
+----------------END--------------------------------------
+
+for automation Assignment Questions Instructions
+Please follow below rules while design automaton script as 
+
+- Accept Input Through command line or through file.
+- Display any message in log file insted of console.
+- For seperate task define seperate function .
+- For robustness handek every expected exception.
+- perform validations before taking any action.
+- Create user-defined modules to store the functionality .
+
+

@@ -1,0 +1,1367 @@
+--------------------------------------------------
+---------------------------------Information of All Process ---------------------------------------------
+-------------------------------------------------- 
+Process ID : 1
+Process Name : systemd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 2
+Process Name : kthreadd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 3
+Process Name : pool_workqueue_release
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 4
+Process Name : kworker/R-rcu_gp
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 5
+Process Name : kworker/R-sync_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 6
+Process Name : kworker/R-kvfree_rcu_reclaim
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 7
+Process Name : kworker/R-slub_flushwq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 8
+Process Name : kworker/R-netns
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 10
+Process Name : kworker/0:0H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 13
+Process Name : kworker/R-mm_percpu_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 14
+Process Name : ksoftirqd/0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 15
+Process Name : rcu_preempt
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 16
+Process Name : rcu_exp_par_gp_kthread_worker/0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 17
+Process Name : rcu_exp_gp_kthread_worker
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 18
+Process Name : migration/0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 19
+Process Name : kprobe-optimizer
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 20
+Process Name : idle_inject/0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 21
+Process Name : cpuhp/0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 22
+Process Name : cpuhp/1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 23
+Process Name : idle_inject/1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 24
+Process Name : migration/1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 25
+Process Name : ksoftirqd/1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 27
+Process Name : kworker/1:0H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 28
+Process Name : cpuhp/2
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 29
+Process Name : idle_inject/2
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 30
+Process Name : migration/2
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 31
+Process Name : ksoftirqd/2
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 33
+Process Name : kworker/2:0H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 34
+Process Name : cpuhp/3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 35
+Process Name : idle_inject/3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 36
+Process Name : migration/3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 37
+Process Name : ksoftirqd/3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 39
+Process Name : kworker/3:0H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40
+Process Name : cpuhp/4
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41
+Process Name : idle_inject/4
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 42
+Process Name : migration/4
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 43
+Process Name : ksoftirqd/4
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 45
+Process Name : kworker/4:0H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 46
+Process Name : cpuhp/5
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 47
+Process Name : idle_inject/5
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 48
+Process Name : migration/5
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 49
+Process Name : ksoftirqd/5
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 51
+Process Name : kworker/5:0H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 54
+Process Name : kdevtmpfs
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 55
+Process Name : kworker/R-inet_frag_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 56
+Process Name : rcu_tasks_kthread
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 57
+Process Name : rcu_tasks_rude_kthread
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 58
+Process Name : kauditd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 59
+Process Name : khungtaskd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 60
+Process Name : oom_reaper
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 63
+Process Name : kworker/R-writeback
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 64
+Process Name : kcompactd0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 65
+Process Name : ksmd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 66
+Process Name : khugepaged
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 67
+Process Name : kworker/R-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 68
+Process Name : kworker/R-blkcg_punt_bio
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 69
+Process Name : kworker/R-kintegrityd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 70
+Process Name : irq/9-acpi
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 72
+Process Name : kworker/R-tpm_dev_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 73
+Process Name : kworker/R-ata_sff
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 74
+Process Name : kworker/R-md_bitmap
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 75
+Process Name : kworker/R-md_llbitmap_io
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 76
+Process Name : kworker/R-md_llbitmap_unplug
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 77
+Process Name : kworker/R-edac-poller
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 79
+Process Name : kworker/R-devfreq_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 81
+Process Name : watchdogd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 83
+Process Name : kworker/R-quota_events_unbound
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 85
+Process Name : irq/25-AMD-Vi0-Evt
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 86
+Process Name : irq/26-AMD-Vi0-PPR
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 87
+Process Name : irq/27-AMD-Vi0-GA
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 89
+Process Name : kswapd0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 90
+Process Name : ecryptfs-kthread
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 91
+Process Name : kworker/R-kthrotld
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 92
+Process Name : kworker/u27:0-hci0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 93
+Process Name : irq/36-pciehp
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 94
+Process Name : kworker/R-acpi_thermal_pm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 96
+Process Name : kworker/R-mld
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 97
+Process Name : kworker/R-ipv6_addrconf
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 98
+Process Name : kworker/R-kstrp
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 117
+Process Name : kworker/R-charger_manager
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 118
+Process Name : irq/28-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 119
+Process Name : irq/29-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 120
+Process Name : irq/30-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 121
+Process Name : irq/31-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 122
+Process Name : irq/32-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 123
+Process Name : irq/33-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 124
+Process Name : irq/34-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 125
+Process Name : irq/35-ACPI:Event
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 391
+Process Name : irq/55-ELAN1301:00
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 400
+Process Name : kworker/R-nvme-wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 401
+Process Name : kworker/R-nvme-reset-wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 402
+Process Name : kworker/R-nvme-delete-wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 403
+Process Name : kworker/R-nvme-auth-wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 429
+Process Name : kworker/0:1H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 437
+Process Name : jbd2/nvme0n1p6-8
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 438
+Process Name : kworker/R-ext4-rsv-conversion
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 654
+Process Name : systemd-journald
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 699
+Process Name : kworker/5:1H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 700
+Process Name : kworker/3:1H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 701
+Process Name : systemd-resolved
+Process UserName : systemd-resolve
+-------------------------------------------------- 
+Process ID : 702
+Process Name : kworker/2:1H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 704
+Process Name : systemd-oomd
+Process UserName : systemd-oom
+-------------------------------------------------- 
+Process ID : 706
+Process Name : systemd-udevd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 708
+Process Name : psimon
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 746
+Process Name : kworker/1:1H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 791
+Process Name : kworker/R-cfg80211
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 863
+Process Name : irq/68-iwlwifi:default_queue
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 864
+Process Name : irq/69-iwlwifi:queue_1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 865
+Process Name : irq/70-iwlwifi:queue_2
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 866
+Process Name : irq/71-iwlwifi:queue_3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 867
+Process Name : irq/72-iwlwifi:queue_4
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 868
+Process Name : irq/73-iwlwifi:queue_5
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 869
+Process Name : irq/74-iwlwifi:queue_6
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 870
+Process Name : irq/75-iwlwifi:exception
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 878
+Process Name : kworker/u27:1-hci0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 932
+Process Name : kworker/R-led_workqueue
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 940
+Process Name : kworker/4:1H-kblockd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1296
+Process Name : kworker/R-amdgpu-reset-dev
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1348
+Process Name : kworker/R-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1354
+Process Name : avahi-daemon
+Process UserName : avahi
+-------------------------------------------------- 
+Process ID : 1355
+Process Name : bluetoothd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1356
+Process Name : chronyd-starter
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1358
+Process Name : dbus-daemon
+Process UserName : messagebus
+-------------------------------------------------- 
+Process ID : 1367
+Process Name : networkd-dispat
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1368
+Process Name : polkitd
+Process UserName : polkitd
+-------------------------------------------------- 
+Process ID : 1378
+Process Name : snapd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1385
+Process Name : accounts-daemon
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1386
+Process Name : switcheroo-control
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1389
+Process Name : systemd-logind
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1393
+Process Name : udisksd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1417
+Process Name : avahi-daemon
+Process UserName : avahi
+-------------------------------------------------- 
+Process ID : 1418
+Process Name : kworker/R-amdgpu_dm_hpd_rx_offload_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1419
+Process Name : kworker/R-amdgpu_dm_hpd_rx_offload_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1422
+Process Name : kworker/R-dm_vblank_control_workqueue
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1458
+Process Name : rsyslogd
+Process UserName : syslog
+-------------------------------------------------- 
+Process ID : 1477
+Process Name : chronyd
+Process UserName : _chrony
+-------------------------------------------------- 
+Process ID : 1490
+Process Name : chronyd
+Process UserName : _chrony
+-------------------------------------------------- 
+Process ID : 1496
+Process Name : NetworkManager
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1515
+Process Name : wpa_supplicant
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1519
+Process Name : card1-crtc0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1520
+Process Name : card1-crtc1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1524
+Process Name : card1-crtc2
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1525
+Process Name : card1-crtc3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1534
+Process Name : kworker/R-gfx
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1537
+Process Name : kworker/R-comp_1.0.0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1539
+Process Name : kworker/R-comp_1.1.0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1540
+Process Name : kworker/R-comp_1.2.0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1541
+Process Name : kworker/R-comp_1.3.0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1542
+Process Name : kworker/R-comp_1.0.1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1543
+Process Name : kworker/R-comp_1.1.1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1544
+Process Name : kworker/R-comp_1.2.1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1545
+Process Name : kworker/R-comp_1.3.1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1546
+Process Name : kworker/R-sdma0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1547
+Process Name : kworker/R-vcn_dec
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1548
+Process Name : kworker/R-vcn_enc0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1549
+Process Name : kworker/R-vcn_enc1
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1550
+Process Name : kworker/R-jpeg_dec
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1565
+Process Name : ModemManager
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1831
+Process Name : cupsd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1833
+Process Name : glances
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1838
+Process Name : unattended-upgr
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1893
+Process Name : cups-browsed
+Process UserName : cups-browsed
+-------------------------------------------------- 
+Process ID : 1895
+Process Name : cron
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1896
+Process Name : glance-api
+Process UserName : glance
+-------------------------------------------------- 
+Process ID : 1914
+Process Name : gdm3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 1931
+Process Name : psimon
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 2067
+Process Name : rtkit-daemon
+Process UserName : rtkit
+-------------------------------------------------- 
+Process ID : 2156
+Process Name : krfcommd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 2235
+Process Name : colord
+Process UserName : colord
+-------------------------------------------------- 
+Process ID : 2266
+Process Name : glance-api
+Process UserName : glance
+-------------------------------------------------- 
+Process ID : 2267
+Process Name : glance-api
+Process UserName : glance
+-------------------------------------------------- 
+Process ID : 2268
+Process Name : glance-api
+Process UserName : glance
+-------------------------------------------------- 
+Process ID : 2269
+Process Name : glance-api
+Process UserName : glance
+-------------------------------------------------- 
+Process ID : 2270
+Process Name : glance-api
+Process UserName : glance
+-------------------------------------------------- 
+Process ID : 2271
+Process Name : glance-api
+Process UserName : glance
+-------------------------------------------------- 
+Process ID : 2295
+Process Name : upowerd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 2919
+Process Name : power-profiles-daemon
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 3437
+Process Name : gdm-session-worker
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 3459
+Process Name : systemd
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3477
+Process Name : (sd-pam)
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3499
+Process Name : dbus-daemon
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3500
+Process Name : pipewire
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3506
+Process Name : gnome-keyring-daemon
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3519
+Process Name : mpris-proxy
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3523
+Process Name : wireplumber
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3525
+Process Name : pipewire
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3527
+Process Name : pipewire-pulse
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3600
+Process Name : xdg-document-portal
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3608
+Process Name : xdg-permission-store
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3615
+Process Name : fusermount3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 3641
+Process Name : gdm-wayland-session
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3675
+Process Name : gnome-session-init-worker
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3852
+Process Name : gcr-ssh-agent
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3853
+Process Name : gnome-session-ctl
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3856
+Process Name : ssh-agent
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3870
+Process Name : gvfsd
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3878
+Process Name : gvfsd-fuse
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3889
+Process Name : gnome-session-service
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3913
+Process Name : gnome-shell
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3986
+Process Name : at-spi-bus-launcher
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3993
+Process Name : dbus-daemon
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 3995
+Process Name : at-spi2-registryd
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4013
+Process Name : gnome-shell-calendar-server
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4020
+Process Name : evolution-source-registry
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4034
+Process Name : gjs
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4048
+Process Name : ibus-daemon
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4053
+Process Name : gsd-a11y-settings
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4058
+Process Name : gsd-color
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4059
+Process Name : gsd-datetime
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4064
+Process Name : gsd-housekeeping
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4066
+Process Name : gsd-keyboard
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4072
+Process Name : gsd-media-keys
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4084
+Process Name : update-notifier
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4085
+Process Name : gsd-power
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4087
+Process Name : gsd-print-notifications
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4088
+Process Name : gsd-rfkill
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4093
+Process Name : gsd-screensaver-proxy
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4096
+Process Name : evolution-alarm-notify
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4100
+Process Name : gsd-disk-utility-notify
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4103
+Process Name : gsd-sharing
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4143
+Process Name : goa-daemon
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4149
+Process Name : gsd-smartcard
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4151
+Process Name : gsd-sound
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4159
+Process Name : gsd-usb-protection
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4160
+Process Name : gsd-wwan
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4198
+Process Name : geoclue
+Process UserName : geoclue
+-------------------------------------------------- 
+Process ID : 4199
+Process Name : ibus-dconf
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4200
+Process Name : ibus-extension-gtk3
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4219
+Process Name : goa-identity-service
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4223
+Process Name : ibus-portal
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4264
+Process Name : gjs
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4269
+Process Name : gsd-printer
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4278
+Process Name : localsearch-3
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4286
+Process Name : xdg-desktop-portal
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4299
+Process Name : evolution-calendar-factory
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4344
+Process Name : xdg-desktop-portal-gnome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4361
+Process Name : evolution-addressbook-factory
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4367
+Process Name : gvfs-udisks2-volume-monitor
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4384
+Process Name : gvfs-afc-volume-monitor
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4394
+Process Name : gvfs-goa-volume-monitor
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4399
+Process Name : gvfs-gphoto2-volume-monitor
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4404
+Process Name : gvfs-mtp-volume-monitor
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4412
+Process Name : ibus-engine-simple
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4460
+Process Name : gvfsd-metadata
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4562
+Process Name : dconf-service
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4620
+Process Name : gvfsd-trash
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 4767
+Process Name : xdg-desktop-portal-gtk
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5262
+Process Name : user-session-helper
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5325
+Process Name : snapd-desktop-integration
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5640
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5645
+Process Name : cat
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5646
+Process Name : cat
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5648
+Process Name : chrome_crashpad_handler
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5650
+Process Name : chrome_crashpad_handler
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5663
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5664
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5666
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5701
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5704
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 5715
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6329
+Process Name : nautilus
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6363
+Process Name : gvfsd-recent
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6371
+Process Name : gvfsd-network
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6378
+Process Name : gvfsd-dnssd
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6385
+Process Name : gvfsd-wsdd
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6390
+Process Name : python3
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6391
+Process Name : uuidd
+Process UserName : uuidd
+-------------------------------------------------- 
+Process ID : 6541
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6543
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6544
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6559
+Process Name : chrome_crashpad_handler
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6562
+Process Name : Xwayland
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6577
+Process Name : gsd-xsettings
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6587
+Process Name : mutter-x11-frames
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6607
+Process Name : ibus-x11
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6638
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6720
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6747
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6796
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6894
+Process Name : dconf
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 6978
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 7309
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 13982
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 14980
+Process Name : fwupd
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 16792
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 16898
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 16920
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 17703
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 17718
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 17719
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 17766
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 17808
+Process Name : code
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 19235
+Process Name : bwrap
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 19236
+Process Name : bwrap
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 19237
+Process Name : glycin-image-rs
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 19564
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 20498
+Process Name : snap
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 29143
+Process Name : ptyxis
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 29161
+Process Name : ptyxis-agent
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 29186
+Process Name : bash
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 30255
+Process Name : glycin-svg
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 35619
+Process Name : kworker/u25:0-flush-259:0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 35959
+Process Name : kworker/u25:4-events_unbound
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 36858
+Process Name : gjs
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 39067
+Process Name : kworker/3:0-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40103
+Process Name : kworker/1:0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40118
+Process Name : kworker/0:1-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40232
+Process Name : kworker/2:0-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40420
+Process Name : kworker/u29:7-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40429
+Process Name : kworker/u26:2-flush-259:0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40796
+Process Name : kworker/5:2-memcg
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40870
+Process Name : kworker/u24:1-gfx
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40978
+Process Name : kworker/u26:3-flush-259:0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 40984
+Process Name : kworker/u25:2-events_unbound
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41135
+Process Name : kworker/u24:2-gfx
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41150
+Process Name : kworker/1:1-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41151
+Process Name : kworker/3:2-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41178
+Process Name : kworker/u28:4-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41181
+Process Name : kworker/u29:0-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41191
+Process Name : kworker/5:1-mm_percpu_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41204
+Process Name : kworker/4:1-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41205
+Process Name : kworker/2:1-mm_percpu_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41247
+Process Name : kworker/0:2-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41292
+Process Name : kworker/u24:0-gfx
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41304
+Process Name : kworker/u26:0-events_unbound
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41393
+Process Name : kworker/u28:0-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41394
+Process Name : kworker/4:0-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41395
+Process Name : kworker/u28:1-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41462
+Process Name : kworker/5:0-mm_percpu_wq
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41494
+Process Name : kworker/u29:1-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41495
+Process Name : kworker/2:2
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41496
+Process Name : kworker/u29:2-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41555
+Process Name : kworker/3:1-cgroup_release
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41556
+Process Name : chrome
+Process UserName : prajwal-pradeep-kadam
+-------------------------------------------------- 
+Process ID : 41592
+Process Name : kworker/4:2-events
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41600
+Process Name : kworker/u26:1-flush-259:0
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41640
+Process Name : kworker/u28:2-ttm
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41641
+Process Name : kworker/u28:3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41716
+Process Name : kworker/u28:5
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41720
+Process Name : kworker/u29:3
+Process UserName : root
+-------------------------------------------------- 
+Process ID : 41721
+Process Name : python
+Process UserName : prajwal-pradeep-kadam
+--------------------------------------------------
