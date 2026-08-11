@@ -1,5 +1,5 @@
 """
-Plot a histogram of studyHours. Explain what the Distribution tells you
+Plot sleep hours  against  FinalResult . Does Sleeping more guarentee success ?Explain
 """
 import pandas as pd
 import seaborn as sns
@@ -24,15 +24,16 @@ def main():
 
     data_path = "student_performance_ml.csv"
 
-    dataFrame = load_dataset_csv(data_path) 
-    if dataFrame is None:
-        print("Data Frame is none please provide valid file path")
-        return
-
+    dataframe = load_dataset_csv(data_path) 
     plt.figure(figsize=(8,6))
-    sns.histplot(data=list(dataFrame['StudyHours']))
-    plt.title("Study houre of student")
+    sns.scatterplot(data=dataframe, x= "SleepHours", y="FinalResult", hue="FinalResult")
     plt.show()
+    SleepHours_corr = dataframe[["SleepHours", "FinalResult"]] # 0.85
+    sns.heatmap(data= SleepHours_corr.corr(), annot=True, cmap="coolwarm")
+    plt.show()
+    #  plot if sleep hours increases chances of getting passed is more.Also
+    # correlation is strong in this feature and lable.
+
 
     
 if __name__ == "__main__":

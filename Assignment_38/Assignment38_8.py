@@ -1,5 +1,6 @@
 """
-Plot a histogram of studyHours. Explain what the Distribution tells you
+Draw box plot for attendance .
+Identify  if any outliers are present
 """
 import pandas as pd
 import seaborn as sns
@@ -29,10 +30,14 @@ def main():
         print("Data Frame is none please provide valid file path")
         return
 
-    plt.figure(figsize=(8,6))
-    sns.histplot(data=list(dataFrame['StudyHours']))
-    plt.title("Study houre of student")
+    # plt.figure(figsize=(8,6))
+    # sns.histplot(data=list(dataFrame['StudyHours']))
+
+    # Draw a single box plot
+    dataFrame.boxplot(column='Attendance')
+
     plt.show()
+
 
     
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 """
-Plot a histogram of studyHours. Explain what the Distribution tells you
+Create a plot showing relationship between AssignmentsComplited and final result  . Explain your observation  
 """
 import pandas as pd
 import seaborn as sns
@@ -24,15 +24,15 @@ def main():
 
     data_path = "student_performance_ml.csv"
 
-    dataFrame = load_dataset_csv(data_path) 
-    if dataFrame is None:
-        print("Data Frame is none please provide valid file path")
-        return
-
+    dataframe = load_dataset_csv(data_path) 
+    assignment_completed_corr = dataframe[["AssignmentsCompleted", "FinalResult"]]
     plt.figure(figsize=(8,6))
-    sns.histplot(data=list(dataFrame['StudyHours']))
-    plt.title("Study houre of student")
+    sns.heatmap(data= assignment_completed_corr.corr(), annot=True, cmap="coolwarm")
     plt.show()
+    # Correlation is around 0.84 which indicates strong relationship between
+    # feature and label . This means that feature value increases, target label tends
+    # to increase consistently 
+
 
     
 if __name__ == "__main__":
