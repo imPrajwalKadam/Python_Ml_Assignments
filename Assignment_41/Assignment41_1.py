@@ -17,8 +17,9 @@ Test Data
 
 step 5:
 Calculate accuracy
-
 """
+
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -41,8 +42,6 @@ def load_dataset(path):
     if os.path.exists(path):
         df = pd.read_csv(path)
     return df
-
-
 
 
 def main():

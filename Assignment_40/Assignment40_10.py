@@ -145,7 +145,6 @@ def main():
 
     print("Training accuracy with max depth None is ", accuracy*100)
 
-
     accuracy = accuracy_score(Y_test, Y_pred)
 
     print("Testing accuracy with maxdepth None ", accuracy*100)
