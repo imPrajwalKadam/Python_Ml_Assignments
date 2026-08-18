@@ -96,7 +96,7 @@ def main():
     plt.title("Amit's Subject-Wise Marks", fontweight='bold')
     plt.xlabel("Subjects")
     plt.ylabel("Marks Obtained")
-    plt.ylim(0, 100) # Scales the graph realistically from 0 to 100
+    plt.ylim(0, 100) 
     plt.show()
 
 
